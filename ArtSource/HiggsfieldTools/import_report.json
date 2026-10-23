@@ -1,0 +1,16 @@
+[
+  {
+    "path": "/Game/GardenManiac/Tools/GardenTools/StaticMeshes/SM_GM_Shovel.SM_GM_Shovel",
+    "name": "SM_GM_Shovel",
+    "min": "<Struct 'Vector' (0x0000015BACE92E40) {x: -62.741524, y: -5.857753, z: 2.123237}>",
+    "max": "<Struct 'Vector' (0x0000015BACE92E58) {x: -33.258472, y: 1.500000, z: 124.722504}>",
+    "materials": 6
+  },
+  {
+    "path": "/Game/GardenManiac/Tools/GardenTools/StaticMeshes/SM_GM_WateringCan.SM_GM_WateringCan",
+    "name": "SM_GM_WateringCan",
+    "min": "<Struct 'Vector' (0x0000015BACE91EC0) {x: -13.285316, y: -18.299999, z: 2.500000}>",
+    "max": "<Struct 'Vector' (0x0000015BACE91ED8) {x: 75.988602, y: 18.500000, z: 49.199181}>",
+    "materials": 5
+  }
+]
